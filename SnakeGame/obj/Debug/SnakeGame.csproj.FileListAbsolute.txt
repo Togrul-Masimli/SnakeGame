@@ -1,0 +1,9 @@
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+E:\PragmatechCsharpProject\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
